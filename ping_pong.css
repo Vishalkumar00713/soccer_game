@@ -1,0 +1,37 @@
+
+.player{
+    margin-top:90px;
+}
+
+#heading{
+    
+    width:459px;
+    margin:auto;
+    text-align: center;
+   
+}
+
+form{
+    
+    width:459px;
+    margin:auto;
+    background-color: rgb(155, 189, 247);
+    
+}
+.player{
+width: 150px;
+height: 35px;
+border-radius: 20px;
+}
+
+#player1{
+background-color: rgb(46, 200, 82);
+color:white;
+}
+#player2{
+background-color: rgb(216, 85, 45);
+color: white;
+}
+img{
+width:459px;
+}
